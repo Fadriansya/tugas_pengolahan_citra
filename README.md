@@ -136,5 +136,3 @@ Kode lengkap program berada pada file `main.py` dan berisi:
 Proyek ini bebas digunakan untuk kebutuhan akademik, tugas kuliah, atau pengembangan lebih lanjut.
 
 ---
-
-Jika ingin menambahkan screenshot GUI atau ingin dibuatkan versi dokumentasi PDF, cukup beri tahu saya.
